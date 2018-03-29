@@ -15,7 +15,7 @@ Zanim firma zainwestuje środki na wdrożenie danej technologii, skąd może wie
 
 Skąd wiesz, że produkt Twojego dostawcy nie umiera? W przypadku naszych rozwiązań nie musisz wierzyć nam na słowo, że wprowadzamy innowacje. Wystarczy, że obejrzysz szybkość rozwoju naszego produktu oraz dowiesz się czegoś na temat społeczności, która pozwala go rozwijać. Im bardziej aktywna, różnorodna i zdrowa społeczność, tym lepszy produkt końcowy. Większość produktów open source wyprzedza projekty o zamkniętym kodzie źródłowym o rok lub nawet dwa lata. Oczywiście każdy dostawca open source musi sobie poradzić z niestabilnością, która wynika z innowacji w przypadku projektów rozwojowych, dlatego należy poszukiwać dostawców, którzy zapewniają długotrwałe wsparcie komercyjne.
 
-</h2>Po drugie długowieczność projektu nie zależy od jednego człowieka.</h2>
+<h2>Po drugie długowieczność projektu nie zależy od jednego człowieka.</h2>
 
 Magazyn Forbes uważa, że aż 90% wszystkich start-upów zawodzi i znika, a większość firm nie jest w stanie przetrwać pierwszych pięciu lat. Musisz pamiętać, że zawsze, kiedy przeprowadzasz migrację do rozwiązań kolejnego dostawcy, to ponosisz ogromne koszty, dlatego najlepiej jest unikać produktów, które są rozwijane tylko przez jednego dostawcę. 
 
