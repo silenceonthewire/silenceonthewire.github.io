@@ -1,4 +1,4 @@
-# Jekyll Materialize Starter Template v0.1
+# Jekyll Materialize SilenceOntheWire v0.1
 
 *A Site Starter Materialize Templates.
 

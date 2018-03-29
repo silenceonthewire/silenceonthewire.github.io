@@ -1,11 +1,7 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: SilenceOntheWire
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
-
-twitter_username: macrod68
-github_username:  macrod68
+  SilenceOntheWire - Twoje wrota do cyfrowej transformacji
+site.title: SilenceOntheWire
 
 sass:
     style: compressed

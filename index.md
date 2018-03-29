@@ -2,4 +2,4 @@
 layout: home
 ---
 
-SilenceOntheWire - open source company
+SilenceOntheWire - twoje wrota do cyfrowej transformacji
