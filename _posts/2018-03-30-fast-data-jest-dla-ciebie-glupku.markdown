@@ -2,7 +2,7 @@
 layout: post
 title:  "FastData jest dla Ciebie głupku"
 date:   2018-03-30 11:15:51 +0200
-categories: FastData, Reactive
+categories: FastData Reactive
 ---
 
 Tak Fast Data jest dla Ciebie głupku. Jest następnym krokiem po Big Data, a jednocześnie nie zastępuje Big Data, bo nie po to została stworzona. I to właśnie narzędzia open source pomagają korporacją i firmą przetwarzać dane na Fast Dacie.
