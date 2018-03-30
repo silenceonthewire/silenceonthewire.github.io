@@ -2,12 +2,12 @@
 layout: post
 title:  "FastData jest dla Ciebie głupku"
 date:   2018-03-30 11:15:51 +0200
-categories: FastData, Reactive
+categories: FastData Reactive
 ---
 
 Tak Fast Data jest dla Ciebie głupku. Jest następnym krokiem po Big Data, a jednocześnie nie zastępuje Big Data, bo nie po to została stworzona. I to właśnie narzędzia open source pomagają korporacją i firmą przetwarzać dane na Fast Dacie.
 
-W 1998 ósmym roku miałem może 16 lat. W 1998 roku nikt nie wyobrażał sobie, że będzie musiał przetwarzać petabajty danych historycznych przy użyciu sprzętu komputerowego. Obecnie istnieją klastry hadoopa, które są w stanie przetwarzać petabajty danych za pomocą komputerów i wirtualizacji. Biedne technologie Open Source, takie jak haddop umożliwiły tanie przetwarzanie takich zbiorów danych. W rezultacie pojawiła się dziedzina o nazwie BigData. Dopiero w nią wchodzisz prawda?
+W 1998 roku miałem może 16 lat. W 1998 roku nikt nie wyobrażał sobie, że będzie musiał przetwarzać petabajty danych historycznych przy użyciu sprzętu komputerowego. Obecnie istnieją klastry hadoopa, które są w stanie przetwarzać petabajty danych za pomocą komputerów i wirtualizacji. Biedne technologie Open Source, takie jak haddop umożliwiły tanie przetwarzanie takich zbiorów danych. W rezultacie pojawiła się dziedzina o nazwie BigData. Dopiero w nią wchodzisz prawda?
 
 No to słuchaj chłopaku, dziewczyno, obecnie trwa podobna ewolucja i dotyczy tzw. Fast Data. Najpierw określmy, czym w ogóle jest Fast Data. Otóż dane wchodzące w skład BigData bardzo często są generowane bardzo, ale to bardzo szybko. Są to zwykle dane, które służą do obsługi kont użytkowników, analityk systemowych, danych z giełdy finansowej, czy z czujników przemysłowych. Często są one generowane od kilku tysięcy do kilku milionów na sekundę. Ten rodzaj danych jest nazywany zwykle „fire hose”.
 
