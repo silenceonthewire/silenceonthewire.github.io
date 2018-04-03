@@ -2,4 +2,4 @@
 layout: home
 ---
 
-SilenceOntheWire - twoje wrota do cyfrowej transformacji
+Your gates to digital transformation.

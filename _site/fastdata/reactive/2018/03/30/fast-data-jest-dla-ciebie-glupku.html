@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+    <title>FastData jest dla Ciebie głupku</title>
+    <meta name="description" content="Tak Fast Data jest dla Ciebie głupku. Jest następnym krokiem po Big Data, a jednocześnie nie zastępuje Big Data, bo nie po to została stworzona. I to właśnie..." />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-86203933-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-86203933-1');
+  </script>
+
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/materialize.css" />
+    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/main.css">
+    <link rel="canonical" href="/fastdata/reactive/2018/03/30/fast-data-jest-dla-ciebie-glupku.html" />
+    <link rel="alternate" type="application/rss+xml" title="SilenceOntheWire" href="/feed.xml" />
+
+
+
+    
+</head>
+
+
+  <body>
+
+    <nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="/">silenceonthewire.github.io</a>
+    
+    
+
+          <ul class="right hide-on-med-and-down">
+            <li><a href="/">Home </a></li>
+            
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+            
+          </ul>
+
+          <ul id="nav-mobile" class="side-nav">
+            <li><a href="#">Home</a></li>
+                            
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+                    
+                    
+                
+            
+          </ul>
+
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+</nav>
+
+
+
+        <div class="container">
+    <div class="section">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">FastData jest dla Ciebie głupku</h1>
+        <p class="post-meta">
+          <time datetime="2018-03-30T11:15:51+02:00" itemprop="datePublished">
+            
+            Mar 30, 2018
+          </time>
+          </p>
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        <p>Tak Fast Data jest dla Ciebie głupku. Jest następnym krokiem po Big Data, a jednocześnie nie zastępuje Big Data, bo nie po to została stworzona. I to właśnie narzędzia open source pomagają korporacją i firmą przetwarzać dane na Fast Dacie.</p>
+
+<p>W 1998 roku miałem może 16 lat. W 1998 roku nikt nie wyobrażał sobie, że będzie musiał przetwarzać petabajty danych historycznych przy użyciu sprzętu komputerowego. Obecnie istnieją klastry hadoopa, które są w stanie przetwarzać petabajty danych za pomocą komputerów i wirtualizacji. Biedne technologie Open Source, takie jak hadoop umożliwiły tanie przetwarzanie takich zbiorów danych. W rezultacie pojawiła się dziedzina o nazwie BigData. Dopiero w nią wchodzisz prawda?</p>
+
+<p>No to słuchaj chłopaku, dziewczyno, obecnie trwa podobna ewolucja i dotyczy tzw. Fast Data. Najpierw określmy, czym w ogóle jest Fast Data. Otóż dane wchodzące w skład BigData bardzo często są generowane bardzo, ale to bardzo szybko. Są to zwykle dane, które służą do obsługi kont użytkowników, analityk systemowych, danych z giełdy finansowej, czy z czujników przemysłowych. Często są one generowane od kilku tysięcy do kilku milionów na sekundę. Ten rodzaj danych jest nazywany zwykle „fire hose”.</p>
+
+<p>Kiedy mówimy o „fire hose” i jednocześnie mówimy o dużych zbiorach danych, to nie mierzymy ich objętości w typowych gigabajtach, terabajtach i peta bajtach, które są znane z hurtowni danych. Objętość danych mierzymy pod względem czasu i objętości. W tym przypadku objętość mierzymy w liczbie megabajtów na sekundę, gigabajtów na minutę i terabajtów na dobę. Jeśli mówimy o Big Data, to mówimy o wytwarzania oraz objętości. Ale duże dane nie mogą być tylko duże. Dane muszą być cholernie szybkie.</p>
+
+<p>Po co mi duże dane, czekające na swoją kolei? Jeśli duże dane zrzucamy tylko do HDFS, analitycznych silników RDBMS, a nawet płaskich plików, to utracimy wszystkie korzyści, jakie płyną z dużych danych, ponieważ utracimy możliwość działania w danej chwili.  De facto należy zawsze najpierw przetworzyć wszystkie aktywne dane, natychmiastowe statusy i dane, które zawierają bieżące akcje i cele. Natomiast hurtownie danych i to, co zwykle nazywa się analizą Big Data, polega na przeglądaniu danych historycznych, które pozwalają zrozumieć przeszłość i przewidzieć przyszłość. Proste co nie?</p>
+
+<p>Chodźmy o krok dalej. Działania na danych w czasie rzeczywistym zwykle uważano za niemożliwe, niepraktyczne i kosztowne. Zastosowano więc to samo rozwiązanie, jakie stosuje się podczas przetwarzania Big Data. Otóż przeprojektowuje się kolejki komunikatów i wdraża systemy strumieniowe, takie jak Apache Kafka, Storm , czy Spark. Do tego wdraża się bazy danych NoSQL lub NewSQL, które także są open source.</p>
+
+<p>Więc jak należy przechwytywać szybkie dane? Otóż najlepszym sposobem na przechwycenie wartości przychodzących danych jest zareagowanie na nie natychmiast po nadejściu. Jeśli zaczynamy przetwarzać dane w partiach, to tracimy czas, a tym samym wartość danych.</p>
+
+<p>Aby w ten sposób przetwarzać dane, których szybkość wynosi od dziesiątek tysięcy do milionów zdarzeń na sekundę, zasadniczo potrzeba dwóch technologii, a mianowicie systemu przesłania strumieniowego, który umie przechwytywać zdarzenia w czasie rzeczywistym i systemu magazynowania danych, który także jest w stanie zapisywać i odczytywać elementy tak szybko, jak tylko się pojawią.</p>
+
+<h2>Dostarczanie szybkich danych</h2>
+
+<p>Na przestrzeni ostatnich lat pojawił się Lightbend. Przemigrowały na niego dwie platformy, a mianowicie Twitter i LinkedIn. W ten sposób powstał Apache Storm, opracowany przez inżynierów Twittera i Apache Kafka, opracowana przez inżynierów LinkedIn. Storm jest narzędziem, które może niezawodnie przetwarzać nieograniczone strumienie danych z szybkością milionów wiadomości na sekundę. Kafka jest z koli systemem kolejki komunikatów rozproszonych. Oba systemy umieją przetwarzać tzw. szybkie dane. Jednak zwykle używa się Kafki.</p>
+
+<p>Kafka jest kolejką komunikatów, która ma rozwiązywać problemy istniejących technologii. Jest to uber kolejka z nieograniczoną skalowalnością, rozproszonymi wdrożeniami, wielowątkowością oraz trwałością. Wasza organizacja może wdrożyć jeden mały kluster Kafki i zaspokoić wszystkie potrzeby organizacji w kwestii kolejkowania komunikatów. Mimo to Kafka tylko i wyłącznie dostarcza wiadomości. Nie obsługuje przetwarzania ani żadnych zapytań.</p>
+
+<h2>Przetwarzanie Fast Data</h2>
+
+<p>Należy pamiętać, że system wiadomości to tylko część rozwiązania. Tradycyjne relacyjne bazy danych posiadają ograniczoną wydajność. Oczywiście większość z nich nadaje się idealnie do przechowywania danych, ale nie można od nich oczekiwać, że nagle w magiczny sposób będą jakoś wzbogacać te dane lub wykonywać na nich działania podczas ich przetwarzania. Oczywiście mamy do dyspozycji systemy NoSQL, które zwykle działają w klastrach i posiadają wysoką wydajność, ale odbywa się to kosztem bezpieczeństwa i pieniędzy. Oczywiście w przypadku podstawowych zastosowań baza NosQL idealnie obsłuży większość przypadków biznesowych, ale w przypadku, kiedy należy szybko zareagować lub w przypadku rozległych przypadków biznesowych rozwiązania NoSQL mogą stwarzać problemy. A więc można zastosować nakładkę, jaką jest Kafka lub bazy danych typu NewSQL.</p>
+
+<p>Bazy danych NewSQL są bardzo podobne w swoim działaniu do Kafki i są zbudowane wokół klastrów współdzielonych. Każde zapytanie jest dystrybuowane wewnątrz klastra, aby zapewnić jak największą wydajność. Wszystkie dane są replikowane między poszczególnymi węzłami klastra, aby zapewnić odpowiedni poziom bezpieczeństwa i dostępności. Aby obsłużyć rosnące obciążenie węzły muszą być dodawane automatycznie wewnątrz każdego klastra. Dzięki temu węzły mogą zostać uszkodzone lub usunięte, a reszta klastra będzie dalej działać. Zarówno bazy danych jak i kolejki komunikatów są projektowane bez pojedynczych punktów awarii. Przy okazji baz NoSQL wymieniliśmy więc główne cechy systemów zaprojektowanych na to, aby być skalowalnymi.</p>
+
+<p>Dodatkowo należy pamiętać, że zarówno Kafka jak i systemy NewSQL wykorzystują klastry oraz dynamiczną topologię do natychmiastowego skalowania bez konieczności rezygnacji z wielu udogodnień. Kafka zapewnia gwarancję przetwarzania wiadomości, a niektóre mechanizmy przetwarzania danych w pamięci pozwalają zapewnić powtarzalność i semantykę ACID. Oba systemy używają swoich klientów obsługujących klastry, aby dostarczać jak najwięcej funkcji oraz uprościć konfigurację. Na koniec oba rozwiązania uzyskują  tzw. nadmiarową trwałość poprzez pracę na dyskach na różnych komputerach, a nie na macierzach RAID lub innych lokalnych systemach pamięci masowej.</p>
+
+<h2>Dobieramy odpowiednie rozwiązanie</h2>
+
+<p>Czego tak naprawdę poszukujemy podczas przetwarzania FastData? Oto mała lista kontrolna:</p>
+
+<ul>
+<li>System musi posiadać zalety nadmiarowości i skalowalności natywnego klastra, który jest oparty o współużytkowanie.</li>
+<li>System musi opierać się na przechowywaniu i przetwarzaniu w pamięci, co pozwala uzyskać wysoką przepustowość na każdym węźle.</li>
+<li>System musi oferować przetwarzanie w czasie rzeczywistym. Czy system może wykonywać logikę warunkową? Czy może przesyłać gigabajty informacji na temat danego stanu, aby informować na bieżąco o swoich decyzjach?</li>
+<li>System musi izolować od siebie poszczególne operacje i zapewniać silne gwarancje dotyczące jego działania. Wszystko to pozwala programistom prostszy kod i skupiać się na problemach biznesowych, zamiast kombinować, jak poradzić sobie z problemami przetwarzania współbieżnego oraz rozbieżności danych. Należy unikać systemów, które zapewniają wysoką spójność ale nie zapewniają wysokiej wydajności.</li>
+</ul>
+
+<p>Systemy, które posiadają te właściwości, bardzo często pojawiają się w środowisku Open Source. Szczególnie można mówić tutaj o systemach takich jak Hadoop, NoSQL i NewSQL, ale należy pamiętać, że każdy z tych systemów posiada wbudowane pewne kompromisy. Jeżeli dana organizacja chce działać na szybkich danych w czasie rzeczywistym, to większość z tych narzędzi usuwa problem złożoności.</p>
+
+<h2>Podsumowanie</h2>
+
+<p>Kafka jest w stanie zapewnić bezpieczny i wysoce dostępny system przenoszenia danych między nieskończoną ilością producentów i konsumentów, oferując jednocześnie wydajność i niezawodność, co zdecydowanie ułatwia administrację. Bazy danych, operujące w pamięci, mogą zaoferować szybki silnik relacyjny z potężną logiką transakcyjną, liczeniem danych i ich agregacją, a jednocześnie posiadają odpowiednią skalowalność, aby sprostać dowolnemu obciążeniu. Ale systemy te tylko w niewielkiej części powinny działać jako relacyjne bazy danych. Przede wszystkim muszą działać jako mechanizmy przetwarzania, uzupełniające infrastrukturę Kafki. Bez względu na to, jakie są potrzeby Twojej organizacji, niektóre kombinacje tych narzędzi mogą Ci naprawdę pomóc. Dzięki nim możesz wiedzieć więcej niż wiesz dotychczas i można w ten sposób zastępować inne bardziej kruche systemy.</p>
+
+      </div>
+
+      
+    </article>
+    </div>
+</div>
+<script>$('.carousel.carousel-slider').carousel({fullWidth: true});</script>
+
+      <footer class="page-footer orange">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">About</h5>
+          <p class="grey-text text-lighten-4">We are a team of people who work on this project and it is usually a full-time job. That is why we ask for your support. Any amount that will help in the development of this project is really welcome.</p>
+          <p>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="8XQ3Y6HSA6CBG">
+            <input type="image" src="https://www.paypalobjects.com/pl_PL/PL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – Płać wygodnie i bezpiecznie">
+            <img alt="" border="0" src="https://www.paypalobjects.com/pl_PL/i/scr/pixel.gif" width="1" height="1">
+          </form>
+          </p>
+          <p>
+            <a href="https://spectrocoin.com/en/integration/buttons/48470-NuS4Bz4Mrp.html" style="display:inline-block;padding: 12px 30px; font-weight: 800; font-size: 18px; text-transform: uppercase; text-align: center; background-color: rgb(39, 88, 119); border: 0px none rgb(51, 51, 51); border-radius: 0px; color: #fff;"><span>Przekaż dotacje</span></a>
+          </p>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Repositories</h5>
+          <ul>
+            <li><a href="https://github.com/silenceonthewire/com.silenceonthewire.esb">Enterprise Serial Bus</a></li>
+          </ul>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Check out</h5>
+          <ul>
+            <li><a href="https://twitter.com/silenceonthewir">@Silenceonthewir</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <div>
+                Made by <a target="_blank" class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+                <span style="text-align: right; float: right">
+                Copyright © 2018 <a href="https://silenceonthewire.github.io" class="orange-text text-lighten-3">SilenceOntheWire</a>. Powered by <a target="_blank" href="http://jekyllrb.com/" class="orange-text text-lighten-3">Jekyll</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+      
+    <!--  Scripts-->                                                                               
+<script src="/js/jquery.min.js"></script>
+<script src="/js/materialize.min.js"></script>
+<script src="/js/init.js"></script>
+
+  </body>
+
+</html>
