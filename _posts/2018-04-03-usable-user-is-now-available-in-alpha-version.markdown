@@ -2,7 +2,7 @@
 layout: post
 title:  Enterprise Serial Bus 1.1 Usable User is now available in the Alpha version.
 description: Theoretically, we have to write tests for selected controllers, but you can already use Api version 1.1 Alpha. Api is based on the basic assumptions of reactive programming, such as the use of actors from the Akka package. We invite you to test and submit comments and transfer donations. If the subsidies exceed 5,000 usd, we will go fully on Fast Data.
-date:   2018-04-02 11:15:51 +0200
+date:   2018-04-03 11:15:51 +0200
 categories: FastData Reactive Play
 ---
 
