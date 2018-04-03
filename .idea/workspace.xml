@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c22c56e-74ef-4c44-b70f-358fda4e3d2e" name="Default" comment="add news and change lang">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/2018/04/03/usable-user-is-now-available-in-alpha-version.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/CODE_OF_CONDUCT.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/assets/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/assets/materialize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fastdata/reactive/2018/03/30/fast-data-jest-dla-ciebie-glupku.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Bold.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Bold.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Light.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Light.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Medium.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Medium.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Thin.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fonts/roboto/Roboto-Thin.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/informacyjnie/2018/03/29/dlaczego-open-source.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/js/materialize.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/screenshot.png" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="0c22c56e-74ef-4c44-b70f-358fda4e3d2e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_checkboxes.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_file-input.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_forms.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_input-fields.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_radio-buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_range.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_select.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/045b80edc60360e0f542c70a5d32cd87da8fe273/_switches.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/3257df1be8982be1daa262ca1fa571ee14de0c63/main.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/39aa301fab65213d4c273d9738dcc306b29b3e10/_default.date.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/39aa301fab65213d4c273d9738dcc306b29b3e10/_default.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/39aa301fab65213d4c273d9738dcc306b29b3e10/_default.time.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/81a1c2983dff53dd7eaf228e2f377e6f4a13ef2f/materialize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_badges.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_buttons.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_cards.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_carousel.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_chips.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_collapsible.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_color.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_dropdown.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_global.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_grid.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_icons-material-design.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_materialbox.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_mixins.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_modal.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_navbar.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_normalize.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_preloader.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_pulse.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_roboto.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_sideNav.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_slider.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_table_of_contents.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_tabs.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_tapTarget.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_toast.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_tooltip.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_transitions.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_typography.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_variables.scssc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/c13390457ef94468557bb461592621d438c36684/_waves.scssc" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" afterPath="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" />
-      <change beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/04/03/usable-user-is-now-available-in-alpha-version.html" afterPath="$PROJECT_DIR$/_site/2018/04/03/usable-user-is-now-available-in-alpha-version.html" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,16 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="107">
               <caret line="94" column="134" lean-forward="false" selection-start-line="94" selection-start-column="134" selection-end-line="94" selection-end-column="134" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,12 +124,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="112" column="9" lean-forward="true" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+              <first_editor relative-caret-position="126">
+                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -130,12 +137,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-29-dlaczego-open-source.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-29-dlaczego-open-source.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -204,8 +224,8 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" />
       </list>
     </option>
   </component>
@@ -425,7 +445,7 @@
       <workItem from="1522756409751" duration="8225000" />
       <workItem from="1522765914036" duration="581000" />
       <workItem from="1522771886109" duration="4970000" />
-      <workItem from="1522780599121" duration="5379000" />
+      <workItem from="1522780599121" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="add news and change lang">
       <created>1522787358122</created>
@@ -441,15 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1522788230455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add news and change lang">
+      <created>1522788512579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522788512579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29380000" />
+    <option name="totallyTimeSpent" value="29517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -463,7 +489,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -649,16 +675,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-29-dlaczego-open-source.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -798,22 +814,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-29-dlaczego-open-source.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="112" column="9" lean-forward="true" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

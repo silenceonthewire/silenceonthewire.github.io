@@ -1,8 +1,10 @@
+---
 layout: post
 title:  Enterprise Serial Bus 1.1 Usable User is now available in the Alpha version.
 description: Theoretically, we have to write tests for selected controllers, but you can already use Api version 1.1 Alpha. Api is based on the basic assumptions of reactive programming, such as the use of actors from the Akka package. We invite you to test and submit comments and transfer donations. If the subsidies exceed 5,000 usd, we will go fully on Fast Data.
 date:   2018-04-02 11:15:51 +0200
 categories: FastData Reactive Play
+---
 
 <h1>Enterprie Serial Bus 1.1 Usable User is now available in the Alpha version.</h1>
 
@@ -67,6 +69,10 @@ categories: FastData Reactive Play
 <code>curl http://localhost:9000/api/v1/users/company/getByName/ExampleCompany</code>
 
 <p>if the request succeeds, the system will be returned:</p>
+.bundle
+.sass-cache
+Gemfile.lock
+*.gem
 
 <code>{"id":1522760698755,"createdAt":1522760698756,"updatedAt":1522760698756,"name":"Example Company","phone":"123456789","taxNumber":"1234567890","email":"company@example.com","address":"street 1","city":"city","state":"state","country":"country","postalCode":"11-111","users":[]}</code>
 
