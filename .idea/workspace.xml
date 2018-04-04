@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c22c56e-74ef-4c44-b70f-358fda4e3d2e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-04-04-enterprise-serial-bus-usable-user-video-tutorial.markdown" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fastdata/reactive/play/2018/04/02/usable-user-is-now-available-in-alpha-version.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fastdata/reactive/play/2018/04/03/usable-user-is-now-available-in-alpha-version.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_site/fastdata/reactive/play/2018/04/04/enterprise-serial-bus-usable-user-video-tutorial.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" afterPath="$PROJECT_DIR$/_posts/2018-04-03-usable-user-is-now-available-in-alpha-version.markdown" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/04/03/usable-user-is-now-available-in-alpha-version.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/fastdata/reactive/play/2018/04/02/usable-user-is-now-available-in-alpha-version.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -403,7 +402,7 @@
       <workItem from="1522765914036" duration="581000" />
       <workItem from="1522771886109" duration="4970000" />
       <workItem from="1522780599121" duration="7673000" />
-      <workItem from="1522829229974" duration="3112000" />
+      <workItem from="1522829229974" duration="3174000" />
     </task>
     <task id="LOCAL-00001" summary="add news and change lang">
       <created>1522787358122</created>
@@ -440,11 +439,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522788949671</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add news and change lang">
+      <created>1522835060299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522835060299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34786000" />
+    <option name="totallyTimeSpent" value="34848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
